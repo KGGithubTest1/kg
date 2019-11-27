@@ -20,6 +20,7 @@ class DemoApplicationTests {
     void authentication() throws Exception{
         GitHub gitHub = GitHub.connectUsingPassword("username", "password");
         String kungeek = "test";
+        String kungeek_test = "test";
     }
 
 }
